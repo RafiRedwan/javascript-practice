@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+.gallery{
+    width:800px;
+    margin:auto;
+}
+.main img{
+    width:800px;
+}
+.sub{
+    display: flex;
+    flex-wrap: wrap;
+}
+.sub img{
+    width:196px;
+    margin:2px;
+}
